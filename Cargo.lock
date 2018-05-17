@@ -1,4 +1,4 @@
 [[package]]
-name = "lit"
+name = "literate-brainfuck"
 version = "0.1.0"
 

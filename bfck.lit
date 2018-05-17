@@ -21,7 +21,7 @@ Because we will read input from files as well as from stdin we'll need to
 include some libraries.
 
 --- includes
-use std::io::Read
+use std::io::Read;
 use std::env;
 use std::fs::File;
 ---
